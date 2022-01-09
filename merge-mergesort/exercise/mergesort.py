@@ -1,9 +1,9 @@
-
+This is my merge technique
 from heapq import merge
 
 def merge_sort2(m):
     """Sort list, using two part merge sort"""
-    if len(m) <= 10000:
+    if len(m) <= 1:
         return m
 
     # Determine the pivot point
