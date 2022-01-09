@@ -1,2 +1,4 @@
 This is an indispensable truth!
 Edit by master after merge-cnflict-branch1 changed it
+This line edited by merge-conflict-branch1
+
